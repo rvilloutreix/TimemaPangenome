@@ -3,4 +3,9 @@ Pangenome analyses in Timema
 
 A repository to explore pangenomic analyses in Timema.
 
-I'll first recreate the examples in cactus tomorrow and will run the pipeline on _T. podura_
+I sucessfully ran the example pipeline.
+
+# Analyses in _T. podura_
+
+1. Identify LG8 on new haploid ref genome
+2. Make a pangenome graph from the three assemblies solely for LG8 (speed)
